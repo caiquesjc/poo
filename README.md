@@ -1,1 +1,1 @@
-## Repositório onde serão postados atividades da matéria **Programação Orientada a Objetos** ##
+## Repositório onde serão postados atividades da matéria _Programação Orientada a Objetos_ ##
